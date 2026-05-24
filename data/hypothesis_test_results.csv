@@ -1,0 +1,5 @@
+Hypothesis,Description,P-Value,Significant (p<0.05),Recommendation
+H1,Risk differences across provinces,0.0928,No,Use national pricing
+H2,Risk differences between zip codes,0.3071656326230077,No,Zip code not a risk factor
+H3,Margin differences between zip codes,0.0848059222621008,No,Profitability consistent
+H4,Risk difference between Women and Men,0.7070334963075543,No,Gender-neutral pricing
